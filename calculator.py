@@ -30,7 +30,7 @@ while (True):
             else:
                 print("Denoinator is zero !. Invalid operation")
         
-        choice = input("Want to use calculator more? yes/no :")
+        choice = input("Did you wanna to do next calculation? yes/no :")
         if(choice.lower() != "yes"):
             print("Thank you !")
             break
